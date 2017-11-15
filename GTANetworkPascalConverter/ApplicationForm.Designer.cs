@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace GTANetworkPascalConverter
 {
     partial class ConverterForm
     {
