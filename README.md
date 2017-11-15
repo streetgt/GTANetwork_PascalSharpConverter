@@ -4,9 +4,10 @@ Application for convert C# files that uses the old API camelCase syntax into Pas
 
 # Instructions
 
- 1. Before execute always backup your files;
- 2. Select your gamemode folder;
- 3. Press Convert
+ 1. Download the latest release [here](https://github.com/tiagocardosoweb/GTANetwork_PascalSharpConverter/releases); 
+ 2. Before execute always backup your files;
+ 3. Select your gamemode folder;
+ 4. Press Convert
 
 The files are now available under YourInputPath/convertion
 
