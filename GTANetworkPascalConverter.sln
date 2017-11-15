@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{5A3A7371-6E91-456F-AE9A-3C84AA160D47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTANetworkPascalConverter", "GTANetworkPascalConverter\GTANetworkPascalConverter.csproj", "{5A3A7371-6E91-456F-AE9A-3C84AA160D47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8AED4DBC-C749-40C0-AE9C-E11BD2304094}
+		SolutionGuid = {A21B4170-4D16-4191-AE32-2C2EA6B566BA}
 	EndGlobalSection
 EndGlobal
