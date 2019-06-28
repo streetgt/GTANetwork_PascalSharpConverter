@@ -174,7 +174,7 @@ namespace GTANetworkPascalConverter
 
         private void GithubURL_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/tiagocardosoweb/GTANetwork_PascalSharpConverter");
+            Process.Start("https://github.com/streetgt/GTANetwork_PascalSharpConverter");
         }
     }
 }
